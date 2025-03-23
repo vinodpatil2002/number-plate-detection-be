@@ -71,9 +71,3 @@ Feel free to fork this repository and submit pull requests.
 ## 🛑 License  
 This project is **open source** and available under the MIT License.  
 
----
-
-git push origin main
-```
-
-
