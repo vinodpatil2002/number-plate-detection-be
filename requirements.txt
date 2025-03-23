@@ -6,7 +6,7 @@ uvicorn
 torch
 torchvision
 ultralytics  # YOLOv8
-paddleocr  # OCR
+easyocr  # OCR
 
 # Image Handling
 opencv-python-headless  # OpenCV (Headless for servers)
