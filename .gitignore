@@ -1,0 +1,18 @@
+# Python Virtual Environment
+venv/
+.env
+*.pyc
+__pycache__/
+.DS_Store
+
+# FastAPI logs & cache
+logs/
+*.log
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# Models & Data (if needed)
+models/
+data/
