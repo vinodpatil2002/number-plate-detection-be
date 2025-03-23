@@ -1,7 +1,8 @@
 import easyocr
 import cv2
 
-reader = easyocr.Reader(["en"])
+reader = easyocr.Reader(["en"], gpu=False)  # Disable GPU to reduce RAM usage
+
 
 
 def extract_text(plate_img):
