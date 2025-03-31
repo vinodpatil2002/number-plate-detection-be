@@ -16,3 +16,7 @@ logs/
 # Models & Data (if needed)
 models/
 data/
+
+# Docker
+*.dockerfile
+docker-compose.yml
